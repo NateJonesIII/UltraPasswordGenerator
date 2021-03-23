@@ -4,7 +4,7 @@ A program to generate a password based on the criteria selected by the user
 
 #Site depection
 
- 
+ ![alt text](https://github.com/NateJonesIII/UltraPasswordGenerator/blob/main/assets/images/inAction.PNG)
  
 
 
@@ -17,7 +17,7 @@ Passsword will then be generated as a string to be copy and pasted
 
 #Result
  
-
+![alt text](https://github.com/NateJonesIII/UltraPasswordGenerator/blob/main/assets/images/passCreated.PNG)
  
 
 
