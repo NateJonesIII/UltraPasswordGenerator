@@ -44,6 +44,7 @@ h1 {
   max-width: 800px;
   padding: 30px 40px;
   border: solid 4px gold;
+  text-align: center;
 }
 
 .card-header::after {
@@ -52,6 +53,7 @@ h1 {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
+
 }
 
 .card-body {
